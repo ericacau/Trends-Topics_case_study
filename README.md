@@ -5,7 +5,10 @@ This repository refers to the paper [Trends and Topics: Characterizing Echo Cham
 The aim of the paper is to define a platform-independent framework to detect and analyze the temporal development of echo chambers through Dynamic Community Detection while considering the topics discussed by users via topic modeling and valence analysis. 
 
 ## Content
-
++ EC detection and analysis
++ Topic Modeling
++ Valence extraction and analysis
++ plot: the folder contains all the figures of the analysis 
 
 ## Dataset
 + The *data* folder contains a sample of the data used in the case study, organized by topic and semester.
