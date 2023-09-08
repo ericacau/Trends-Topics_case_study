@@ -12,4 +12,4 @@ The aim of the paper is to define a platform-independent framework to detect and
 
 ## Dataset
 + The **data** folder contains a sample of the data used in the case study, organized by topic and semester.
-+ The textual data have been removed to avoid the identification of the author of the post. 
++ The text of the posts have been removed to avoid the identification of the author of the post. 
